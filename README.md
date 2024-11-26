@@ -15,7 +15,7 @@
 
 - 💬 Mendan **Flutter, Laravel,React, Django, Fast-api** haqida so'rang
 
-- 📫 Men bilan qanday bog'lanish mumkin **shohbozbek.uz24@gmail .com**
+- 📫 Men bilan qanday bog'lanish mumkin **shohbozbek.uz24@gmail.com**
 
 - 📄 Tajribalarim haqida bilish [devit.uz/resume](devit.uz/resume)
 
