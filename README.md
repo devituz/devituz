@@ -9,16 +9,15 @@
 
 - 🌱 I’m currently learning **C++, C#, C, and Unity**
 
-- 👨‍💻 All of my projects are available at [devit.uz](devit.uz)
+- 👨‍💻 All of my projects are available at [devit.uz](https://devit.uz)
 
-- 📝 I regularly write articles on [devit.uz/blog](devit.uz/blog)
+- 📝 I regularly write articles on [devit.uz/blog](https://devit.uz/blog)
 
 - 💬 Ask me about **Flutter, Laravel, React, Django, FastAPI**
 
 - 📫 How to reach me: **shohbozbek.uz24@gmail.com**
 
-- 📄 Know about my experiences: [devit.uz/resume](devit.uz/resume)
-
+- 📄 Know about my experiences: [devit.uz/resume](https://devit.uz/resume)
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=devituz&show_icons=true&locale=en" alt="devituz" /></p>
 
