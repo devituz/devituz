@@ -20,6 +20,6 @@
 - 📄 Tajribalarim haqida bilish [devit.uz/resume](devit.uz/resume)
 
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=devituz&show_icons=true&locale=en" alt="devituz" /></p>
+<p> <img align="center" src="https://" alt="devituz" /></p>
 
-<p><img align="markaz" src="https://github-readme-streak-stats.herokuapp.com/?user=devituz&" alt="devituz" /></p>
+<p><img align="markaz" src="https://" alt="devituz" /></p>
