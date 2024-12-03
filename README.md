@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [devit.uz/blog](https://devit.uz/blog)
 
-- 💬 Ask me about **Flutter, Laravel, React, Django, FastAPI**
+- 💬 Ask me about **Flutter, Laravel, Django, FastAPI**
 
 - 📫 How to reach me: **shohbozbek.uz24@gmail.com**
 
