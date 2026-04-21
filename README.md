@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/devituz" target="blank"><img src="https://img.shields.io/twitter/follow/devituz?logo=twitter&style=for-the-badge" alt="devituz" /></a> </p>
 
-- 🌱 I’m currently learning **C++, C#, C, and Unity**
+- 🌱 I’m currently learning **C++, C#,**
 
 - 👨‍💻 All of my projects are available at [devit.uz](https://devit.uz)
 
 - 📝 I regularly write articles on [devit.uz/blog](https://devit.uz/blog)
 
-- 💬 Ask me about **Flutter, Laravel, Django, FastAPI**
+- 💬 Ask me about **Flutter, Laravel, Go**
 
 - 📫 How to reach me: **shohbozbek.uz24@gmail.com**
 
